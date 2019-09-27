@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [世界，你好！](http://www.xkly.tk/hello-solo)
+* [关于我的一天生活](http://www.xkly.tk/articles/2019/09/27/1569563904212.html)
+* [偶因一回顾，便为心上人](http://www.xkly.tk/articles/2019/09/26/1569491908655.html)
 
 
 
