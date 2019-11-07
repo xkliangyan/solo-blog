@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.xkly.tk/my-github-repos)
 * [v2ray流量伪装：WebSocket + TLS 初体验](http://www.xkly.tk/articles/2019/10/17/1571322129907.html)
 * [一些命令记录](http://www.xkly.tk/articles/2019/09/29/1569719409154.html)
 * [关于我的一天生活](http://www.xkly.tk/articles/2019/09/27/1569563904212.html)
